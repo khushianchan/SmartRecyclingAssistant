@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+recycling_history.db
+.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

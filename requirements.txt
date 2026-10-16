@@ -1,0 +1,6 @@
+
+Flask
+numpy
+Pillow
+matplotlib
+ai-edge-litert
